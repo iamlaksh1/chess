@@ -1,6 +1,6 @@
 baseURL: "https://iamlaksh1.github.io/chess/"
 languageCode: en-us
-title: Houston Chess Team 
+title: Houston Chess Olympiad Knights  
 theme: PaperMod
 
 
@@ -23,7 +23,7 @@ params:
       This blog is a place where I’ll share my thoughts, ideas, and experiences about chess. I’ve also started this blog to bring together local chess players—friends, classmates, and anyone who loves the game—to learn, teach, and grow together. Whether you're new to chess or have been playing for a while, I hope you'll join me in making this an awesome space to improve, compete, and have fun
     SecondParagraph: >
     
-    Title: Houston Chess Team 
+    Title: Houston Chess Olympiad Knights 
    
 
   socialIcons:
