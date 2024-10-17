@@ -18,7 +18,7 @@ Welcome chess enthusiasts! Fill out the form below to register for our upcoming 
 
 - Date : October 20, 2024
 - Time  : 4 pm CST to 5 pm CST
-- Location: Harvest green Farm House
+- Location: Harvest green Farm House, 77406
 
 **Bring your own chess board, timer** 
 
