@@ -53,5 +53,5 @@ Welcome chess enthusiasts! Fill out the form below to register for our upcoming 
   <label for="comments">Comments or Questions:</label><br>
   <textarea id="comments" name="comments" placeholder="Anything you'd like to share?" rows="4"></textarea><br><br>
 
-  <input type="submit" placeholder="Click to Submit" value="Register">
+  <input type="submit" value="Register">
 </form>
