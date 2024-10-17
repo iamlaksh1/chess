@@ -20,6 +20,10 @@ Welcome chess enthusiasts! Fill out the form below to register for our upcoming 
 - Time  : 4 pm CST to 5 pm CST
 - Location: Harvest green Farm House, 77406
 
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-95.72424709796907%2C29.642670252034137%2C-95.72070658206941%2C29.644744980700214&amp;layer=mapnik&amp;marker=29.64370762171146%2C-95.72247684001923" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=29.643708&amp;mlon=-95.722477#map=19/29.643708/-95.722477">View Larger Map</a></small>
+
+
+
 **Bring your own chess board, timer** 
 
 *Notation sheets will be provided upon request*
@@ -35,7 +39,7 @@ Welcome chess enthusiasts! Fill out the form below to register for our upcoming 
   <input type="number" id="age" name="age" placeholder="Enter your age" required><br><br>
 
   <label for="contact">Contact No:</label><br>
-  <input type="number" id="contact" name="age" placeholder="Enter your phone number" required><br><br>
+  <input type="number" id="contact" name="contact" placeholder="Enter your phone number" required><br><br>
 
   <label for="experience">Chess Experience Level:</label><br>
   <select id="experience" name="experience" required>
