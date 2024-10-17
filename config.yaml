@@ -1,0 +1,46 @@
+baseURL: "https://iamlaksh1.github.io/chess/"
+languageCode: en-us
+title: Abhinav 
+theme: PaperMod
+
+
+permalinks:
+  posts: "/:slug"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowCodeCopyButtons: true
+
+  homeInfoParams:
+    FirstParagraph: >
+      Welcome to my personal blog!
+      I'm Abhinav, a 5th grader and passionate chess player. This blog is a place where I’ll share my thoughts, ideas, and experiences about chess. I’ve also started this blog to bring together local chess players—friends, classmates, and anyone who loves the game—to learn, teach, and grow together. Whether you're new to chess or have been playing for a while, I hope you'll join me in making this an awesome space to improve, compete, and have fun
+    SecondParagraph: >
+    
+    Title: Abhinav 
+   
+
+  socialIcons:
+    - name: email
+      url: "mailto:houstonchessteam@gmail.com"
+    - name: github
+      url: "https://github.com/iamlaksh1"
+    - name: twitter
+      url: "https://twitter.com/iamlaksh1"
+ 
+
+menu:
+  main:
+    - name: Posts
+      pageRef: /posts/
+      weight: 2  
+    - identifier: GitHub
+      name: GitHub
+      url: "https://github.com/iamlaksh1"
+      weight: 5
