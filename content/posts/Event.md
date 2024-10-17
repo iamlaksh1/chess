@@ -22,7 +22,7 @@ Welcome chess enthusiasts! Fill out the form below to register for our upcoming 
 *Notation sheets will be provided upon request*
 
 
-- **Date**: October 20, 2024 (Sunday)
+- **Date**: October 20, 2024 
 - **Time**: 4 PM CST to 5 PM CST
 - **Location**: *Will be emailed once you register* [TX, 77406]
 
