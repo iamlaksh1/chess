@@ -12,7 +12,7 @@ tags:
   - "Houston"
 ---
 
-# Chess Meetup Registration
+# Chess Meetup Registration Form
 
 Welcome chess enthusiasts! Fill out the form below to register for our upcoming chess meetup. We look forward to seeing you there!
 
